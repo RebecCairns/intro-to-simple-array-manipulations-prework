@@ -32,6 +32,5 @@ def using_delete(arr, str)
   arr.delete(str)
 end 
 def using_delete_at(arr, num)
-  array.sort!
-  arr.delete(num)
+  arr.delete_at(num)
 end   
