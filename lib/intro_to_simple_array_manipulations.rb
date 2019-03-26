@@ -22,6 +22,6 @@ end
 def using_insert(arr, newElem)
   arr.insert(4, newElem)
 end
-def ising_uniq(arr)
+def using_uniq(arr)
   arr.uniq
 end  
