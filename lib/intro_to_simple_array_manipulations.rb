@@ -27,4 +27,7 @@ def using_uniq(arr)
 end  
 def using_flatten(arr)
   arr.flatten
-end   
+end 
+def using_delete(arr, str)
+  arr.delet(str)
+end 
