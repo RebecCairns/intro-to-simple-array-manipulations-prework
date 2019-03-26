@@ -8,5 +8,5 @@ def using_pop(arr)
   arr.pop 
 end  
 def pop_with_args(arr)
-  arr.pop(arr.length - 3)
+  arr.pop(3)
 end  
