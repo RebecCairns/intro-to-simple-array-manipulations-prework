@@ -11,5 +11,5 @@ def pop_with_args(arr)
   deletedArrElements = arr.pop(2)
 end  
 def using_unshift(arr)
-  
+  arr.shift
 end   
