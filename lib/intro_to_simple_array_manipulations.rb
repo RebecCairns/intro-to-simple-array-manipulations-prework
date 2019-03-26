@@ -8,6 +8,5 @@ def using_pop(arr)
   arr.pop 
 end  
 def pop_with_args(arr)
-  deletedArrElements = arr.pop + " "
-  deletedArrElements += arr.pop
+  deletedArrElements = arr.pop(2)
 end  
